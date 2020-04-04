@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BCA9-1960
+
+ Directory of C:\Users\yuvas\OneDrive\Desktop\MYPROJECT
+
+04-04-2020  15:03    <DIR>          .
+04-04-2020  15:03    <DIR>          ..
+04-04-2020  15:03                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,646,617,088 bytes free
