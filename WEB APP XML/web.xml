@@ -1,0 +1,32 @@
+  <web-app>
+  <servlet>
+    <servlet-name>busticket1</servlet-name>
+    <servlet-class>busticket1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>busticket1</servlet-name>
+    <url-pattern>/busticket1</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>signup2</servlet-name>
+    <servlet-class>signup2</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>signup2</servlet-name>
+    <url-pattern>/signup2</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>availablebuses</servlet-name>
+    <servlet-class>availablebuses</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>availablebuses</servlet-name>
+    <url-pattern>/availablebuses</url-pattern>
+  </servlet-mapping>
+
+
+  
+
+</web-app>
